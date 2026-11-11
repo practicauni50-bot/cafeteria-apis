@@ -4,13 +4,39 @@
     "nombre": "Café Americano",
     "precio": 35,
     "descripcion": "Café de grano recién molido 250ml",
+    "categoria": "cafeteria",
     "imagen": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=500"
   },
   {
     "id": "2",
     "nombre": "Capuchino",
     "precio": 45,
-    "descripcion": "Espresso con leche al vapor y espuma de leche",
+    "descripcion": "Espresso con leche al vapor y espuma suave",
+    "categoria": "cafeteria",
     "imagen": "https://images.unsplash.com/photo-1534778101976-62847782c213?w=500"
+  },
+  {
+    "id": "3",
+    "nombre": "Sándwich Jamón y Queso",
+    "precio": 50,
+    "descripcion": "Pan artesanal, jamón de pavo y queso manchego",
+    "categoria": "sandwich",
+    "imagen": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
+  },
+  {
+    "id": "4",
+    "nombre": "Rebanada de Pastel de Chocolate",
+    "precio": 40,
+    "descripcion": "Pastel de tres leches cubierto de ganache de chocolate",
+    "categoria": "postres",
+    "imagen": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
+  },
+  {
+    "id": "5",
+    "nombre": "Frappé Mocha",
+    "precio": 55,
+    "descripcion": "Bebida fría batida con hielo, café espresso y chocolate",
+    "categoria": "bebidas-frias",
+    "imagen": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?w=500"
   }
 ]
