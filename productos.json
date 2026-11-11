@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "nombre": "Café Americano",
+    "precio": 35,
+    "descripcion": "Café de grano recién molido 250ml",
+    "imagen": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=500"
+  },
+  {
+    "id": "2",
+    "nombre": "Capuchino",
+    "precio": 45,
+    "descripcion": "Espresso con leche al vapor y espuma de leche",
+    "imagen": "https://images.unsplash.com/photo-1534778101976-62847782c213?w=500"
+  }
+]
