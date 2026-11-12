@@ -1,42 +1,50 @@
 [
   {
-    "id": "1",
+    "identificación": "1",
     "nombre": "Café Americano",
     "precio": 35,
-    "descripcion": "Café de grano recién molido 250ml",
-    "categoria": "cafeteria",
-    "imagen": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=500"
+    "descripción": "Café de grano recién molido 250ml",
+    "categoría": "Cafetería",
+    "imagen": "https://images.unsplash.com/photo-1509042239860-f550e710b93?w=500"
   },
   {
-    "id": "2",
+    "identificación": "2",
     "nombre": "Capuchino",
     "precio": 45,
-    "descripcion": "Espresso con leche al vapor y espuma suave",
-    "categoria": "cafeteria",
+    "descripción": "Espresso con leche al vapor y espuma suave",
+    "categoría": "Cafetería",
     "imagen": "https://images.unsplash.com/photo-1534778101976-62847782c213?w=500"
   },
   {
-    "id": "3",
-    "nombre": "Sándwich Jamón y Queso",
+    "identificación": "3",
+    "nombre": "Sándwich de jamón y queso",
     "precio": 50,
-    "descripcion": "Pan artesanal, jamón de pavo y queso manchego",
-    "categoria": "sandwich",
+    "descripción": "Pan artesanal, jamón de pavo y queso manchego",
+    "categoría": "Sándwich",
     "imagen": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=500"
   },
   {
-    "id": "4",
+    "identificación": "4",
     "nombre": "Rebanada de Pastel de Chocolate",
     "precio": 40,
-    "descripcion": "Pastel de tres leches cubierto de ganache de chocolate",
-    "categoria": "postres",
+    "descripción": "Pastel de tres leches cubierto de ganache de chocolate.",
+    "categoría": "Postre",
     "imagen": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500"
   },
   {
-    "id": "5",
-    "nombre": "Frappé Mocha",
+    "identificación": "5",
+    "nombre": "Pizza Pepperoni Individual",
+    "precio": 65,
+    "descripción": "Masa artesanal con salsa de tomate, queso y pepperoni",
+    "categoría": "Pizza",
+    "imagen": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?w=500"
+  },
+  {
+    "identificación": "6",
+    "nombre": "Frappé de Café",
     "precio": 55,
-    "descripcion": "Bebida fría batida con hielo, café espresso y chocolate",
-    "categoria": "bebidas-frias",
-    "imagen": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?w=500"
+    "descripción": "Bebida fría de café blend con crema batida",
+    "categoría": "Bebida fría",
+    "imagen": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500"
   }
 ]
